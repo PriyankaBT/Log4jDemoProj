@@ -1,0 +1,11 @@
+2021-11-23 15:40:44,102 ERROR [com.cg.abc.DemoLog4J] - Error occured! Due to false value
+2021-11-23 15:41:29,193 WARN [com.cg.abc.DemoLog4J] - nullDeprecated statement
+2021-11-23 15:41:29,195 INFO [com.cg.abc.DemoLog4J] - Logging information for DemoLog4j
+2021-11-23 15:41:29,195 DEBUG [com.cg.abc.DemoLog4J] - Code debugging started
+2021-11-23 15:41:29,196 WARN [com.cg.abc.DemoLog4J] - This is last time warning
+2021-11-23 15:41:29,196 ERROR [com.cg.abc.DemoLog4J] - Error occured! Due to false value
+2021-11-23 15:41:44,429 WARN [com.cg.abc.DemoLog4J] - nullDeprecated statement
+2021-11-23 15:41:44,430 INFO [com.cg.abc.DemoLog4J] - Logging information for DemoLog4j
+2021-11-23 15:41:44,431 DEBUG [com.cg.abc.DemoLog4J] - Code debugging started
+2021-11-23 15:41:44,432 WARN [com.cg.abc.DemoLog4J] - This is last time warning
+2021-11-23 15:41:44,432 ERROR [com.cg.abc.DemoLog4J] - Error occured! Due to false value
